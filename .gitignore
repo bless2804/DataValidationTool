@@ -1,0 +1,27 @@
+# Java Build Files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE Configuration
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Build and Output Folders
+out/
+bin/
+target/
