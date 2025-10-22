@@ -1,0 +1,19 @@
+ID,Age,Income,Province,Email,Education,EmploymentStatus,HouseholdSize
+1,29,55000,ON,jane.doe@mail.com,Bachelor,Full-time,2
+2,47,82000,BC,john.smith@mail.com,College,Full-time,4
+3,38,72000,QC,sarah_lee@mail.com,Master,Part-time,1
+4,19,12000,NS,,High School,Unemployed,3
+5,65,89000,AB,henry_w@mail.com,Bachelor,Retired,2
+6,34,0,MB,alice@mail,Bachelor,Full-time,2
+7,41,64000,ON,tom@mail.com,College,Full-time,4
+8,23,,QC,megan_12@mail.com,High School,Student,5
+9,58,90000,BC,david.w@mail.com,Master,Full-time,3
+10,72,45000,SK,susan@mail.com,High School,Retired,1
+11,33,70000,ON,,Bachelor,Full-time,3
+12,26,51000,AB,robert@mail.com,Bachelor,Part-time,2
+13,52,85000,MB,carol12@mail.com,PhD,Full-time,2
+14,28,56000,QC,wrongemailformat,Bachelor,Full-time,2
+15,49,76000,BC,jason@mail.com,College,Full-time,4
+16,36,0,NS,amy@mail.com,Master,Unemployed,1
+17,24,48000,ON,linda@mail.com,High School,Student,3
+18,70,0,NL
